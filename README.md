@@ -1,5 +1,5 @@
 # Trigram_words_appearance_calculator
-This project calculate the probability of Trigram word appearances in the google 3gram using map-reduce EMR of AWS
+This project calculate the probability of Trigram word appearances in the google 3gram using map-reduce of Hadoop and EMR of AWS
 
 Environment Installation:
 1. To have default roles that match EMR create Cluster and terminate it.
